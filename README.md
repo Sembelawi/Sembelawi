@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sembelawi
-- 👀 I’m interested in Python as a Programming Language. 
-- 🌱 I’m currently learning Data Science and Machine Learning for medical imaging 
+- 👀 I’m keen to build ML powered applications.
+- 🌱 I’m currently learning Data Science and Machine Learning.
 
 
 <!---
